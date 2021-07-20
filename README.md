@@ -1,6 +1,4 @@
-### Hi there 👋
-
-Perkenalkan nama saya **Lucky Fernanda R**
+### Hi there My name is Lucky Fernanda R👋
 
 <!--
 **RedLucky/RedLucky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
